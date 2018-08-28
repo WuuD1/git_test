@@ -5,3 +5,4 @@ xxxxxxx
 zengjia
 zengjia2
 test git origin_push
+test github origin two
