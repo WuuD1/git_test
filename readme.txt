@@ -9,4 +9,4 @@ test github origin two
 create a new branch: dev
 create a new new branch dev
 and
-newdev
+new dev
